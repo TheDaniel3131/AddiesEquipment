@@ -1,0 +1,126 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Addie_Equipment
+</name>
+</assembly>
+<members>
+<member name="T:Addie_Equipment.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.abstract_futuristic_wallpaper_23_2148398113">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.abstract_futuristic_wallpaper_23_21483981131">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.backgroundfillingform">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.backicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.delete_318_10512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.renticon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.repairworkshoptransparentfinalpng">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.repairworkshoptransparentpng">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.repairworkshoptransparentpng1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.repairworkshoptransparentpng2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.repairworkshoptransparentpng3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.repairworkshoptransparentpng4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.rsz_11rsz_submit_button_png_transparent_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.rsz_1rsz_submit_button_png_transparent_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.rsz_submit_button_png_transparent_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.smokebackground">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.Submit_Button_PNG_Transparent_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.supporticon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.websitepng">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Addie_Equipment.My.Resources.Resources.websitepng1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,38 @@
+C:\Users\Daniel\source\repos\Addie_Equipment\bin\Debug\Addie_Equipment.exe.config
+C:\Users\Daniel\source\repos\Addie_Equipment\bin\Debug\Addie_Equipment.exe
+C:\Users\Daniel\source\repos\Addie_Equipment\bin\Debug\Addie_Equipment.pdb
+C:\Users\Daniel\source\repos\Addie_Equipment\bin\Debug\Addie_Equipment.xml
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.Resources.resources
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.vbproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.exe
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.xml
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.pdb
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.vbprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.AddiesEquipment.resources
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.FillingForm.resources
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.FinalReceipt.resources
+C:\Users\Daniel\source\repos\Addie_Equipment\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Daniel\source\repos\Addie_Equipment\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.vbproj.CopyComplete
+C:\Users\Daniel\source\repos\Addie_Equipment\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.dll
+C:\Users\Daniel\source\repos\Addie_Equipment\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.xml
+C:\Users\Daniel\source\repos\Addie_Equipment\obj\Debug\Addie_Equipment.Dashboard.resources
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\bin\Debug\Addie_Equipment.exe.config
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\bin\Debug\Addie_Equipment.exe
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\bin\Debug\Addie_Equipment.pdb
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\bin\Debug\Addie_Equipment.xml
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\bin\Debug\Microsoft.VisualBasic.PowerPacks.Printing.PrintForm.xml
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.vbproj.AssemblyReference.cache
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.AddiesEquipment.resources
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.FillingForm.resources
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.FinalReceipt.resources
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.Dashboard.resources
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.Resources.resources
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.vbproj.GenerateResource.cache
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.vbproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.vbproj.CopyComplete
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.exe
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.xml
+C:\Users\danie\Downloads\Daniel Poh Ting Fong TP056258 (FVP Individual Assignment)\Addie_Equipment\obj\Debug\Addie_Equipment.pdb
